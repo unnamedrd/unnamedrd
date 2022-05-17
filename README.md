@@ -1,6 +1,8 @@
 
 ![Follow the unnamed road (2)](https://user-images.githubusercontent.com/93551062/168747902-40f90e34-2bae-41eb-a411-4717a7541ae1.jpg)
 
+## Software Engineer | Tech Content Creator | Educator | Freelance Dev
+
 - 👋 Hi, I’m Naj @unnamedrd
 - 👩🏽 My Pronouns are she/her
 - 👀 I’m interested in frontend development, mobile app development, UX design
