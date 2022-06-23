@@ -6,7 +6,7 @@
 - 👋 Hi, I’m Naj @unnamedrd
 - 👩🏽 My Pronouns are she/her
 - 👀 I’m interested in frontend development, mobile app development, UX design
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning Javascript, MongoDB, Node.JS, Express
 - 💪🏽 I’m looking to collaborate on hackathons and open-source
 - 📫 Reach me at this email:theunnamedrd@gmail.com
 
